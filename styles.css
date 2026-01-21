@@ -460,7 +460,7 @@ a{color:inherit;text-decoration:none}
 .countBanner{position:relative; padding:86px 0; text-align:center; overflow:hidden}
 .countBanner__bg{
   position:absolute; inset:0;
-  background-image:url('assets/images/photo-1.jpg');
+  background-image:url('photo-1.jpg');
   background-size:cover; background-position:center;
   filter:grayscale(1) brightness(.35) contrast(1.05);
   transform:scale(1.08);
